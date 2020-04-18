@@ -20,4 +20,4 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Demo:
 
-<img src = "demo.PNG">
+<img src = "public/images/demo.PNG">
